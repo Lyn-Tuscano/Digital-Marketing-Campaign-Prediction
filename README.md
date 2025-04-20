@@ -13,10 +13,9 @@ The notebook is structured into the following major sections:
 2. **Data Preprocessing** – Handling null values, data cleaning, and formatting.
 3. **Exploratory Data Analysis (EDA)**  
    - Uni-variate, Bi-variate, and Multivariate analysis.
-   - Correlation metrics and visual insights.
 4. **Outlier Analysis** – Identification and treatment of outliers.
-5. **Categorical Feature Encoding** – Label encoding and one-hot encoding.
-6. **Correlation Metrics** – Understanding feature relationships.
+5. **Categorical Feature Encoding** – One-hot encoding.
+6. **Correlation Metrics** – Correlation metrics and visual insights.
 7. **Train-Test Split** – Splitting the dataset for model evaluation.
 8. **Model Building**  
    - Logistic Regression  
@@ -26,6 +25,8 @@ The notebook is structured into the following major sections:
    - AdaBoost  
    - XGBoost  
    - LightGBM
+9. **Model Evaluation** - Conmparing the Model OutPuts
+10. **Feature Importance** - Gauging the top Important features for the Model
 
 ---
 
@@ -33,7 +34,7 @@ The notebook is structured into the following major sections:
 
 - In-depth **EDA** with clear visualizations.
 - Clean and structured **data preprocessing** steps.
-- Comparison of **7 classification models** using accuracy, confusion matrix, and other metrics.
+- Comparison of **7 classification models** using Recall, F1 Score, confusion matrix, and other metrics.
 - Feature importance analysis using ensemble techniques.
 - Insightful use of visualization tools like **Matplotlib** and **Seaborn**.
 
