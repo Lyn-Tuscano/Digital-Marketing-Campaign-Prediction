@@ -9,16 +9,16 @@ This project aims to enhance campaign effectiveness in the digital marketing sec
 
 The notebook is structured into the following major sections:
 
-1. **A. Importing the Libraries** – All required libraries for data handling, visualization, and modeling.
-2. **B. Data Preprocessing** – Handling null values, data cleaning, and formatting.
-3. **C. Exploratory Data Analysis (EDA)**  
+1. **Importing the Libraries** – All required libraries for data handling, visualization, and modeling.
+2. **Data Preprocessing** – Handling null values, data cleaning, and formatting.
+3. **Exploratory Data Analysis (EDA)**  
    - Uni-variate, Bi-variate, and Multivariate analysis.
    - Correlation metrics and visual insights.
-4. **D. Outlier Analysis** – Identification and treatment of outliers.
-5. **E. Categorical Feature Encoding** – Label encoding and one-hot encoding.
-6. **F. Correlation Metrics** – Understanding feature relationships.
-7. **G. Train-Test Split** – Splitting the dataset for model evaluation.
-8. **H. Model Building**  
+4. **Outlier Analysis** – Identification and treatment of outliers.
+5. **Categorical Feature Encoding** – Label encoding and one-hot encoding.
+6. **Correlation Metrics** – Understanding feature relationships.
+7. **Train-Test Split** – Splitting the dataset for model evaluation.
+8. **Model Building**  
    - Logistic Regression  
    - Decision Tree  
    - Random Forest  
